@@ -20,7 +20,7 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:id="@+id/imageView6"
+                    android:id="@+id/imgDoctor"
                     android:layout_width="85sp"
                     android:layout_height="85sp"
                     app:srcCompat="@drawable/dokter4" />
@@ -34,7 +34,7 @@
                 android:padding="10sp">
 
                 <TextView
-                    android:id="@+id/textView9"
+                    android:id="@+id/txtNamaDoctor"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Dr Flows Mayet"
@@ -42,7 +42,7 @@
                     android:textStyle="bold" />
 
                 <TextView
-                    android:id="@+id/textView10"
+                    android:id="@+id/txtBidangDoctor"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Dentist" />
@@ -56,7 +56,7 @@
                 android:padding="10sp">
 
                 <TextView
-                    android:id="@+id/textView11"
+                    android:id="@+id/txtJumlahRating"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="20sp"
@@ -72,7 +72,7 @@
                     android:progressTint="#E91E63" />
 
                 <TextView
-                    android:id="@+id/textView12"
+                    android:id="@+id/txtAngkaRating"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="20sp"

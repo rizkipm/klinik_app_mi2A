@@ -18,13 +18,13 @@
             android:padding="10sp">
 
             <ImageView
-                android:id="@+id/imageView5"
+                android:id="@+id/imgIcon"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:srcCompat="@drawable/icon_heart" />
 
             <TextView
-                android:id="@+id/textView8"
+                android:id="@+id/txtMenu"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="TextView"
